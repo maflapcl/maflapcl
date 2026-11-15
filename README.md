@@ -4,6 +4,7 @@
   Estilo: Ocean Tech
   Cores: azul-marinho, preto e turquesa
 -->
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/64529941-dac9-43ce-b9e0-2ce455888384" />
 
 <!-- BANNER -->
 <p align="center">
