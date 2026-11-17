@@ -131,15 +131,6 @@ Experiência prática com desenvolvimento colaborativo, aplicação de IA e inte
 
 ## ✦ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/maflapcl/WaveLab-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=WaveLab-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  </a>
-  <a href="https://github.com/maflapcl/Projeto-de-LP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=Projeto-de-LP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  </a>
-</p>
-
 ### 🌊 WaveLab-AI
 
 **Python | Artificial Intelligence | Gemini**
@@ -152,7 +143,7 @@ Assistente de Inteligência Artificial voltado ao universo do surf, desenvolvido
 
 [View Repository](https://github.com/maflapcl/WaveLab-AI)
 
-### 🧠 Mindflow
+### 🧠 MediFlow
 
 **Hackathon | Em desenvolvimento**
 
