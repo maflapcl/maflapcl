@@ -1,14 +1,17 @@
-
+```html
 <!--
-  PERFIL GITHUB — MARIA FLAVIA (@maflapcl)
-  Estilo: Ocean Tech
-  Cores: azul-marinho, preto e turquesa
+ PERFIL GITHUB — MARIA FLAVIA (@maflapcl)
+ Estilo: Ocean Tech
+ Cores: azul-marinho, preto e turquesa
 -->
-<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/64529941-dac9-43ce-b9e0-2ce455888384" />
 
 <!-- BANNER -->
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Code, Surf and Innovate"/>
+  <img
+    src="https://github.com/user-attachments/assets/64529941-dac9-43ce-b9e0-2ce455888384"
+    width="100%"
+    alt="Code, Surf and Innovate - Maria Flavia"
+  />
 </p>
 
 <h1 align="center">Olá! Eu sou a Maria Flavia 👋</h1>
@@ -61,6 +64,7 @@ Escola e Faculdade Fortec | 2022 – 2024
 ## ✦ Programs & Experiences
 
 ### ☁️ Oracle Next Education (ONE)
+
 **Oracle + Alura | 2026**
 
 Participação no programa de formação tecnológica Oracle Next Education, com foco em Inteligência Artificial e desenvolvimento de soluções práticas.
@@ -75,12 +79,15 @@ Participação no programa de formação tecnológica Oracle Next Education, com
 
 🏅 Oracle Cloud Infrastructure AI Foundations Associate.
 
-### 🧠 Hackathon — Mindflow
+### 🏥 Hackathon — MediFlow
+
 **Em andamento | 2026**
 
-Participação em equipe no desenvolvimento do Mindflow, um sistema desenvolvido durante o hackathon.
+Participação em equipe no desenvolvimento do MediFlow, um sistema inteligente de triagem e análise de documentos clínicos, desenvolvido durante o hackathon.
 
-Experiência prática envolvendo colaboração, desenvolvimento de soluções tecnológicas e aplicação dos conhecimentos adquiridos ao longo da formação.
+O projeto envolve Inteligência Artificial, processamento de documentos e classificação de informações, buscando otimizar fluxos e apoiar processos no contexto da saúde.
+
+Experiência prática com desenvolvimento colaborativo, aplicação de IA e integração de soluções tecnológicas.
 
 ---
 
@@ -101,6 +108,7 @@ Experiência prática envolvendo colaboração, desenvolvimento de soluções te
 ## ✦ Professional Experience
 
 ### Assistente de Tecnologia e Operações
+
 **Setor imobiliário | 2025 – Atual**
 
 - Atualização e manutenção de sites e plataformas digitais.
@@ -109,6 +117,7 @@ Experiência prática envolvendo colaboração, desenvolvimento de soluções te
 - Suporte em ferramentas digitais e processos operacionais.
 
 ### Assistente de Marketing Digital e Suporte Técnico
+
 **Clínica de saúde | 2025**
 
 - Criação e publicação de conteúdos para redes sociais.
@@ -121,76 +130,9 @@ Experiência prática envolvendo colaboração, desenvolvimento de soluções te
 
 ## ✦ Featured Projects
 
-### 🌊 WaveLab-AI
-**Python | Artificial Intelligence | Gemini**
-
-Assistente de Inteligência Artificial voltado ao universo do surf, desenvolvido para consultar informações e recomendar pranchas utilizando documentos como fonte de conhecimento.
-
-- Integração com recursos de Inteligência Artificial.
-- Processamento e utilização de documentos.
-- Desenvolvimento de aplicação web.
-
-[View Repository](https://github.com/maflapcl/WaveLab-AI)
-
-### 🧠 Mindflow
-**Hackathon | Em desenvolvimento**
-
-Sistema desenvolvido em equipe durante o Hackathon, aplicando conhecimentos tecnológicos e práticas de desenvolvimento colaborativo.
-
-### 💻 Projeto de LP
-**Laravel | MySQL | Desenvolvimento Web**
-
-Projeto acadêmico voltado ao desenvolvimento web, envolvendo estruturação de aplicações e integração com banco de dados.
-
-[View Repository](https://github.com/maflapcl/Projeto-de-LP)
-
----
-
-## ✦ Tech Stack
-
-### Languages & Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css" />
-</p>
-
-### Frameworks & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,spring,mysql" />
-</p>
-
-### Tools & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logo=openai&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-0D1117?style=flat-square&logo=googleanalytics&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=F80000"/>
-  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-</p>
-
----
-
-## ✦ GitHub Statistics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maflapcl&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&bg_color=0D1117"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maflapcl&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maflapcl&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</p>
-
----
-
-<p align="center">
-  <i>Always learning, building and exploring new possibilities.</i>
-  <br/>
-  🌊 <b>Code • Surf • Innovate</b>
-</p>
+  <a href="https://github.com/maflapcl/WaveLab-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=WaveLab-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  </a>
+  <a href="https://github.com/maflapcl/Projeto-de-LP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=Projeto-de-LP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&
