@@ -4,7 +4,13 @@
   Theme: Ocean Tech
   Colors: Navy | Deep Ocean | Turquoise
 -->
+<p align="left">
+  <code>~/maflapcl/README.md</code>
+</p>
 
+<h2>
+  <code>print("Hello, ocean!");</code>
+</h2>
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
@@ -16,14 +22,6 @@
 </p>
 
 <!-- ==================== HEADER ==================== -->
-
-<p align="left">
-  <code>~/maflapcl/README.md</code>
-</p>
-
-<h2>
-  <code>print("Hello, ocean!");</code>
-</h2>
 
 <h1 align="center">
   Olá! Eu sou a Maria Flavia 👋
