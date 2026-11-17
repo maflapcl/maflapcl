@@ -5,16 +5,28 @@
  Cores: azul-marinho, preto e turquesa
 -->
 
+
 <!-- BANNER -->
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/64529941-dac9-43ce-b9e0-2ce455888384"
     width="100%"
-    alt="Code, Surf and Innovate - Maria Flavia"
+    alt="Code, Surf and Innovate"
   />
 </p>
 
-<h1 align="center">Olá! Eu sou a Maria Flavia 👋</h1>
+<!-- TERMINAL HEADER -->
+<p align="left">
+  <code>~/maflapcl/README.md</code>
+</p>
+
+<h2 align="left">
+  <code>print("Hello, ocean!");</code>
+</h2>
+
+<h1 align="center">
+  Olá! Eu sou a Maria Flavia 👋
+</h1>
 
 <h3 align="center">
   Technology | Artificial Intelligence | Data | Cloud
@@ -24,12 +36,16 @@
   <i>Code with purpose. Learn continuously. Follow the waves. 🌊</i>
 </p>
 
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/maflapcl">
-    <img src="https://img.shields.io/badge/GitHub-maflapcl-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/GITHUB-071521?style=for-the-badge&logo=github&logoColor=00D9FF"/>
   </a>
-  <a href="https://www.linkedin.com/in/maria-flavia-polezel-camargo-lourenco">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+  <a href="https://www.linkedin.com/in/maria-flavia-polezel-camargo-louren%C3%A7o">
+    <img src="https://img.shields.io/badge/LINKEDIN-071521?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+  </a>
+  <a href="mailto:maflapcl@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-071521?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
   </a>
 </p>
 
