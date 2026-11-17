@@ -28,7 +28,7 @@
   <a href="https://github.com/maflapcl">
     <img src="https://img.shields.io/badge/GitHub-maflapcl-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
   </a>
-  <a href="https://www.linkedin.com/in/maria-flavia-polezel-camargo-louren%C3%A7o">
+  <a href="https://www.linkedin.com/in/maria-flavia-polezel-camargo-lourenco">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
   </a>
 </p>
