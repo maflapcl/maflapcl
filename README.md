@@ -79,13 +79,16 @@ Participação no programa de formação tecnológica Oracle Next Education, com
 
 🏅 Oracle Cloud Infrastructure AI Foundations Associate.
 
-### 🧠 Hackathon — Mindflow
+
+### 🏥 Hackathon — MediFlow
 
 **Em andamento | 2026**
 
-Participação em equipe no desenvolvimento do Mindflow, um sistema desenvolvido durante o hackathon.
+Participação em equipe no desenvolvimento do MediFlow, um sistema inteligente de triagem e análise de documentos clínicos, desenvolvido durante o hackathon.
 
-Experiência prática envolvendo colaboração, desenvolvimento de soluções tecnológicas e aplicação dos conhecimentos adquiridos ao longo da formação.
+O projeto envolve Inteligência Artificial, processamento de documentos e classificação de informações, buscando otimizar fluxos e apoiar processos no contexto da saúde.
+
+Experiência prática com desenvolvimento colaborativo, aplicação de IA e integração de soluções tecnológicas.
 
 ---
 
