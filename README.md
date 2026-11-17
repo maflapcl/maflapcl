@@ -47,29 +47,24 @@
 
 ---
 
+
 <!-- ==================== ABOUT ME ==================== -->
 
 <h2>✦ About Me</h2>
-
-<p>
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas na FATEC Praia Grande</strong>, com formação técnica em Informática pela Escola e Faculdade Fortec.
-</p>
-
-<p>
-  Tenho interesse principalmente em <strong>Inteligência Artificial, Análise de Dados, Computação em Nuvem e Cibersegurança</strong>.
-</p>
-
-<p>
-  Busco transformar conhecimentos em soluções práticas, explorando novas tecnologias por meio de projetos acadêmicos, pessoais, desafios e programas de formação.
-</p>
-
-<p>
-  Atualmente, venho aprofundando meus conhecimentos em Inteligência Artificial e Cloud, participando de iniciativas como o <strong>Oracle Next Education (ONE)</strong> e desenvolvendo projetos colaborativos.
-</p>
-
-<p>
-  Fora da tecnologia, o surf é uma das minhas grandes paixões. 🌊
-</p>
+<table>
+<tr>
+<td width="68%" valign="middle">
+<p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas na FATEC Praia Grande</strong>, com formação técnica em Informática pela Escola e Faculdade Fortec.</p>
+<p>Tenho interesse principalmente em <strong>Inteligência Artificial, Análise de Dados, Computação em Nuvem e Cibersegurança</strong>.</p>
+<p>Busco transformar conhecimentos em soluções práticas, explorando novas tecnologias por meio de projetos acadêmicos, pessoais, desafios e programas de formação.</p>
+<p>Atualmente, venho aprofundando meus conhecimentos em Inteligência Artificial e Cloud, participando de iniciativas como o <strong>Oracle Next Education (ONE)</strong> e desenvolvendo projetos colaborativos.</p>
+<p>Fora da tecnologia, o surf é uma das minhas grandes paixões. 🌊</p>
+</td>
+<td width="32%" align="center" valign="middle">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4278bff-1598-4074-bd60-8bafb76dec91" />
+</td>
+</tr>
+</table>
 
 ---
 
