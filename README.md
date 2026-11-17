@@ -1,4 +1,4 @@
-```html
+
 <!--
  PERFIL GITHUB — MARIA FLAVIA (@maflapcl)
  Estilo: Ocean Tech
@@ -79,15 +79,13 @@ Participação no programa de formação tecnológica Oracle Next Education, com
 
 🏅 Oracle Cloud Infrastructure AI Foundations Associate.
 
-### 🏥 Hackathon — MediFlow
+### 🧠 Hackathon — Mindflow
 
 **Em andamento | 2026**
 
-Participação em equipe no desenvolvimento do MediFlow, um sistema inteligente de triagem e análise de documentos clínicos, desenvolvido durante o hackathon.
+Participação em equipe no desenvolvimento do Mindflow, um sistema desenvolvido durante o hackathon.
 
-O projeto envolve Inteligência Artificial, processamento de documentos e classificação de informações, buscando otimizar fluxos e apoiar processos no contexto da saúde.
-
-Experiência prática com desenvolvimento colaborativo, aplicação de IA e integração de soluções tecnológicas.
+Experiência prática envolvendo colaboração, desenvolvimento de soluções tecnológicas e aplicação dos conhecimentos adquiridos ao longo da formação.
 
 ---
 
@@ -135,4 +133,81 @@ Experiência prática com desenvolvimento colaborativo, aplicação de IA e inte
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=WaveLab-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
   </a>
   <a href="https://github.com/maflapcl/Projeto-de-LP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=Projeto-de-LP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maflapcl&repo=Projeto-de-LP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  </a>
+</p>
+
+### 🌊 WaveLab-AI
+
+**Python | Artificial Intelligence | Gemini**
+
+Assistente de Inteligência Artificial voltado ao universo do surf, desenvolvido para consultar informações e recomendar pranchas utilizando documentos como fonte de conhecimento.
+
+- Integração com recursos de Inteligência Artificial.
+- Processamento e utilização de documentos.
+- Desenvolvimento de aplicação web.
+
+[View Repository](https://github.com/maflapcl/WaveLab-AI)
+
+### 🧠 Mindflow
+
+**Hackathon | Em desenvolvimento**
+
+Sistema desenvolvido em equipe durante o Hackathon, aplicando conhecimentos tecnológicos e práticas de desenvolvimento colaborativo.
+
+### 💻 Projeto de LP
+
+**Laravel | MySQL | Desenvolvimento Web**
+
+Projeto acadêmico voltado ao desenvolvimento web, envolvendo estruturação de aplicações e integração com banco de dados.
+
+[View Repository](https://github.com/maflapcl/Projeto-de-LP)
+
+---
+
+## ✦ Tech Stack
+
+### Languages & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css" />
+</p>
+
+### Frameworks & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,spring,mysql" />
+</p>
+
+### Tools & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,azure,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logo=openai&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-0D1117?style=flat-square&logo=googleanalytics&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+</p>
+
+---
+
+## ✦ Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building and exploring new possibilities.</i>
+  <br/>
+  🌊 <b>Code • Surf • Innovate</b>
+</p>
