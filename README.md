@@ -227,14 +227,6 @@
   </a>
 </p>
 
-<h3>⚓ LH Nautical Dashboard</h3>
-
-<strong>SQL | Python | Looker</strong>
-
-<p>
-  Projeto de análise de dados náuticos, envolvendo organização de informações, consultas SQL, tratamento de dados e visualização de indicadores.
-</p>
-
 ---
 
 <!-- ==================== TECH STACK ==================== -->
