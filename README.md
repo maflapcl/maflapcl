@@ -1,12 +1,12 @@
 
 <!--
- PERFIL GITHUB — MARIA FLAVIA (@maflapcl)
- Estilo: Ocean Tech
- Cores: azul-marinho, preto e turquesa
+  GITHUB PROFILE — MARIA FLAVIA (@maflapcl)
+  Theme: Ocean Tech
+  Colors: Navy | Deep Ocean | Turquoise
 -->
 
+<!-- ==================== BANNER ==================== -->
 
-<!-- BANNER -->
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/64529941-dac9-43ce-b9e0-2ce455888384"
@@ -15,12 +15,13 @@
   />
 </p>
 
-<!-- TERMINAL HEADER -->
+<!-- ==================== HEADER ==================== -->
+
 <p align="left">
   <code>~/maflapcl/README.md</code>
 </p>
 
-<h2 align="left">
+<h2>
   <code>print("Hello, ocean!");</code>
 </h2>
 
@@ -36,81 +37,109 @@
   <i>Code with purpose. Learn continuously. Follow the waves. 🌊</i>
 </p>
 
-<!-- SOCIAL LINKS -->
+<!-- ==================== SOCIAL LINKS ==================== -->
+
 <p align="center">
   <a href="https://github.com/maflapcl">
     <img src="https://img.shields.io/badge/GITHUB-071521?style=for-the-badge&logo=github&logoColor=00D9FF"/>
   </a>
-  <a href="https://www.linkedin.com/in/maria-flavia-polezel-camargo-louren%C3%A7o">
+  <a href="https://www.linkedin.com/in/maria-flavia-polezel-camargo-lourenco">
     <img src="https://img.shields.io/badge/LINKEDIN-071521?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
   </a>
-  <a href="mailto:maflapcl@gmail.com">
+  <a href="mailto:flavia.maria.pcl@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-071521?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
   </a>
 </p>
 
 ---
 
-## ✦ About Me
+<!-- ==================== ABOUT ME ==================== -->
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Praia Grande**, formada em Técnico em Informática pela Escola e Faculdade Fortec.
+<h2>✦ About Me</h2>
 
-Tenho interesse principalmente em Inteligência Artificial, Análise de Dados, Computação em Nuvem e Cibersegurança.
+<p>
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas na FATEC Praia Grande</strong>, com formação técnica em Informática pela Escola e Faculdade Fortec.
+</p>
 
-Busco transformar conhecimentos em soluções práticas, explorando novas tecnologias por meio de projetos acadêmicos, pessoais, desafios e programas de formação.
+<p>
+  Tenho interesse principalmente em <strong>Inteligência Artificial, Análise de Dados, Computação em Nuvem e Cibersegurança</strong>.
+</p>
 
-Atualmente, venho aprofundando meus conhecimentos em Inteligência Artificial e Cloud, participando de iniciativas como o **Oracle Next Education (ONE)** e desenvolvendo projetos colaborativos.
+<p>
+  Busco transformar conhecimentos em soluções práticas, explorando novas tecnologias por meio de projetos acadêmicos, pessoais, desafios e programas de formação.
+</p>
 
-Fora da tecnologia, o surf é uma das minhas grandes paixões. 🌊
+<p>
+  Atualmente, venho aprofundando meus conhecimentos em Inteligência Artificial e Cloud, participando de iniciativas como o <strong>Oracle Next Education (ONE)</strong> e desenvolvendo projetos colaborativos.
+</p>
 
----
-
-## ✦ Education
-
-🎓 **Análise e Desenvolvimento de Sistemas**
-
-FATEC Praia Grande | 2025 – 2027
-
-💻 **Técnico em Informática**
-
-Escola e Faculdade Fortec | 2022 – 2024
-
----
-
-## ✦ Programs & Experiences
-
-### ☁️ Oracle Next Education (ONE)
-
-**Oracle + Alura | 2026**
-
-Participação no programa de formação tecnológica Oracle Next Education, com foco em Inteligência Artificial e desenvolvimento de soluções práticas.
-
-**Formações e atividades concluídas:**
-
-- **Imersão Agentes de IA:** conclusão dos cursos e atividades da imersão, com certificado.
-- **Challenge Alura Agente:** desenvolvimento de um agente próprio de Inteligência Artificial voltado à análise de dados.
-- **Trilha OCI AI Foundations Associate:** trilha de formação concluída pela Alura, no programa ONE.
-
-**Certificação Oracle University:**
-
-🏅 Oracle Cloud Infrastructure AI Foundations Associate.
-
-
-### 🏥 Hackathon — MediFlow
-
-**Em andamento | 2026**
-
-Participação em equipe no desenvolvimento do MediFlow, um sistema inteligente de triagem e análise de documentos clínicos, desenvolvido durante o hackathon.
-
-O projeto envolve Inteligência Artificial, processamento de documentos e classificação de informações, buscando otimizar fluxos e apoiar processos no contexto da saúde.
-
-Experiência prática com desenvolvimento colaborativo, aplicação de IA e integração de soluções tecnológicas.
+<p>
+  Fora da tecnologia, o surf é uma das minhas grandes paixões. 🌊
+</p>
 
 ---
 
-## ✦ Certifications
+<!-- ==================== EDUCATION ==================== -->
 
-| Certificação | Instituição |
+<h2>✦ Education</h2>
+
+<p>
+  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+  FATEC Praia Grande | 2025 – 2027
+</p>
+
+<p>
+  💻 <strong>Técnico em Informática</strong><br/>
+  Escola e Faculdade Fortec | 2022 – 2024
+</p>
+
+---
+
+<!-- ==================== PROGRAMS & EXPERIENCES ==================== -->
+
+<h2>✦ Programs & Experiences</h2>
+
+<h3>☁️ Oracle Next Education (ONE)</h3>
+
+<strong>Oracle + Alura | 2026</strong>
+
+<p>
+  Participação no programa de formação tecnológica Oracle Next Education, com foco em Inteligência Artificial e desenvolvimento de soluções práticas.
+</p>
+
+<strong>Formações e atividades concluídas:</strong>
+
+<ul>
+  <li><strong>Imersão Agentes de IA:</strong> conclusão dos cursos e atividades da imersão, com certificado.</li>
+  <li><strong>Challenge Alura Agente:</strong> desenvolvimento de um agente próprio de Inteligência Artificial voltado à análise de dados.</li>
+  <li><strong>Trilha OCI AI Foundations Associate:</strong> trilha de formação concluída pela Alura, no programa ONE.</li>
+</ul>
+
+<strong>Certificação Oracle University:</strong>
+
+<p>
+  🏅 Oracle Cloud Infrastructure AI Foundations Associate.
+</p>
+
+<h3>🧠 Hackathon — MediFlow</h3>
+
+<strong>Em andamento | 2026</strong>
+
+<p>
+  Participação em equipe no desenvolvimento do <strong>MediFlow</strong>, um sistema de triagem inteligente de documentos da área da saúde, desenvolvido durante um hackathon.
+</p>
+
+<p>
+  Experiência prática envolvendo Inteligência Artificial, processamento e classificação de documentos, integração de soluções, testes de cenários e desenvolvimento colaborativo.
+</p>
+
+---
+
+<!-- ==================== CERTIFICATIONS ==================== -->
+
+<h2>✦ Certifications</h2>
+
+| Certification | Institution |
 |---|---|
 | Oracle Cloud Infrastructure AI Foundations Associate | Oracle University |
 | Microsoft Azure AI Fundamentals (AI-900) | Microsoft / SENAI |
@@ -122,102 +151,140 @@ Experiência prática com desenvolvimento colaborativo, aplicação de IA e inte
 
 ---
 
-## ✦ Professional Experience
+<!-- ==================== PROFESSIONAL EXPERIENCE ==================== -->
 
-### Assistente de Tecnologia e Operações
+<h2>✦ Professional Experience</h2>
 
-**Setor imobiliário | 2025 – Atual**
+<h3>Assistente de Tecnologia e Operações</h3>
 
-- Atualização e manutenção de sites e plataformas digitais.
-- Organização de dados, documentos e informações do negócio.
-- Criação e publicação de anúncios em plataformas digitais.
-- Suporte em ferramentas digitais e processos operacionais.
+<strong>Setor imobiliário | 2025 – Atual</strong>
 
-### Assistente de Marketing Digital e Suporte Técnico
+<ul>
+  <li>Atualização e manutenção de sites e plataformas digitais.</li>
+  <li>Organização de dados, documentos e informações do negócio.</li>
+  <li>Criação e publicação de anúncios em plataformas digitais.</li>
+  <li>Suporte em ferramentas digitais e processos operacionais.</li>
+</ul>
 
-**Clínica de saúde | 2025**
+<h3>Assistente de Marketing Digital e Suporte Técnico</h3>
 
-- Criação e publicação de conteúdos para redes sociais.
-- Produção e organização de materiais digitais.
-- Acompanhamento de métricas e indicadores de redes sociais.
-- Criação e acompanhamento de anúncios digitais.
-- Suporte em ferramentas e plataformas digitais.
+<strong>Clínica de saúde | 2025</strong>
 
----
-
-## ✦ Featured Projects
-
-### 🌊 WaveLab-AI
-
-**Python | Artificial Intelligence | Gemini**
-
-Assistente de Inteligência Artificial voltado ao universo do surf, desenvolvido para consultar informações e recomendar pranchas utilizando documentos como fonte de conhecimento.
-
-- Integração com recursos de Inteligência Artificial.
-- Processamento e utilização de documentos.
-- Desenvolvimento de aplicação web.
-
-[View Repository](https://github.com/maflapcl/WaveLab-AI)
-
-### 🧠 MediFlow
-
-**Hackathon | Em desenvolvimento**
-
-Sistema desenvolvido em equipe durante o Hackathon, aplicando conhecimentos tecnológicos e práticas de desenvolvimento colaborativo.
-
-### 💻 Projeto de LP
-
-**Laravel | MySQL | Desenvolvimento Web**
-
-Projeto acadêmico voltado ao desenvolvimento web, envolvendo estruturação de aplicações e integração com banco de dados.
-
-[View Repository](https://github.com/maflapcl/Projeto-de-LP)
+<ul>
+  <li>Criação e publicação de conteúdos para redes sociais.</li>
+  <li>Produção e organização de materiais digitais.</li>
+  <li>Acompanhamento de métricas e indicadores de redes sociais.</li>
+  <li>Criação e acompanhamento de anúncios digitais.</li>
+  <li>Suporte em ferramentas e plataformas digitais.</li>
+</ul>
 
 ---
 
-## ✦ Tech Stack
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-### Languages & Development
+<h2>✦ Featured Projects</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css" />
+<h3>🌊 WaveLab-AI</h3>
+
+<strong>Python | Artificial Intelligence | Gemini</strong>
+
+<p>
+  Assistente de Inteligência Artificial voltado ao universo do surf, desenvolvido para consultar informações e recomendar pranchas utilizando documentos como fonte de conhecimento.
 </p>
 
-### Frameworks & Databases
+<ul>
+  <li>Integração com recursos de Inteligência Artificial.</li>
+  <li>Processamento e utilização de documentos.</li>
+  <li>Desenvolvimento de aplicação web.</li>
+</ul>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,spring,mysql" />
+<p>
+  <a href="https://github.com/maflapcl/WaveLab-AI">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-071521?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+  </a>
 </p>
 
-### Tools & Cloud
+<h3>🧠 MediFlow</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,vscode" />
+<strong>Hackathon | Artificial Intelligence | Document Processing</strong>
+
+<p>
+  Sistema de triagem inteligente de documentos da área da saúde, desenvolvido em equipe durante um hackathon.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logo=openai&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-0D1117?style=flat-square&logo=googleanalytics&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-0D1117?style=flat-square&logo=oracle&logoColor=F80000"/>
-  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+<ul>
+  <li>Classificação e direcionamento de documentos.</li>
+  <li>Testes de cenários e validação de resultados.</li>
+  <li>Aplicação de Inteligência Artificial em processos de triagem.</li>
+  <li>Desenvolvimento colaborativo.</li>
+</ul>
+
+<h3>💻 Projeto de LP</h3>
+
+<strong>Laravel | React | MySQL</strong>
+
+<p>
+  Projeto acadêmico de desenvolvimento web, envolvendo construção de aplicações, integração entre frontend e backend e gerenciamento de dados.
+</p>
+
+<p>
+  <a href="https://github.com/maflapcl/Projeto-de-LP">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-071521?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+  </a>
+</p>
+
+<h3>⚓ LH Nautical Dashboard</h3>
+
+<strong>SQL | Python | Looker</strong>
+
+<p>
+  Projeto de análise de dados náuticos, envolvendo organização de informações, consultas SQL, tratamento de dados e visualização de indicadores.
 </p>
 
 ---
 
-## ✦ Currently Exploring
+<!-- ==================== TECH STACK ==================== -->
+
+<h2>✦ Tech Stack</h2>
+
+<h3>Languages & Development</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp"/>
+</p>
+
+<h3>Frameworks & Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,spring,mysql"/>
+</p>
+
+<h3>Tools & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,azure,vscode"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-071521?style=flat-square&logo=openai&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-071521?style=flat-square&logo=googleanalytics&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/SQL-071521?style=flat-square&logo=mysql&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-071521?style=flat-square&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/Power_BI-071521?style=flat-square&logo=powerbi&logoColor=F2C811"/>
 </p>
 
 ---
+
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
   <i>Always learning, building and exploring new possibilities.</i>
-  <br/>
-  🌊 <b>Code • Surf • Innovate</b>
+</p>
+
+<h3 align="center">
+  🌊 Code • Surf • Innovate
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1C2B&height=3&section=footer"/>
 </p>
